@@ -24,4 +24,4 @@ To run the site on your local machine
 ## Download or clone the repository onto your machine.
 - 1 Extract the .zip file.
 - 2 Open .html file in your browser.
-- 3 Alternatively you can click on the following [Site Link](https://github.com/chetanbj2001/Drum-kit-js/new/master?readme=1#technical-information) to view.
+- 3 Alternatively you can click on the following [Site Link](https://chetanbj2001.github.io/Drum-kit-js/) to view.
