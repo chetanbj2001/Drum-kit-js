@@ -2,10 +2,7 @@
 
 # Angela Yu Web Development - Advanced JS and DOM Manipulation
 ## HTML/CSS/JS & DOM - Drum Kit
-- [About this project](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://github.com/chetanbj2001/Drum-kit-js/new/master?readme=1#about))
-- [Features](https://github.com/chetanbj2001/Drum-kit-js/new/master?readme=1#features)
-- [Requirements](https://github.com/chetanbj2001/Drum-kit-js/new/master?readme=1#requirements)
-- [Technical Information](https://github.com/chetanbj2001/Drum-kit-js/new/master?readme=1#technical-information)
+
 
 ## About
 In this code along I updated the provided starter files using HTML, CSS, and Javascript
